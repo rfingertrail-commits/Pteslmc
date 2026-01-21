@@ -16,7 +16,7 @@ from pathlib import Path
 from io import BytesIO
 
 # ================= CONFIG =================
-BOT_TOKEN = "7306488465:AAGliHdwrhUKrFCWf31864d46vL4EY-BlRs"
+BOT_TOKEN = "7214966757:AAHwwQZQst5_ei1gkuyt9MHzNdJT66PlVZ8"
 ADMIN_ID = 7431622335
 POLLINATIONS_API = "https://image.pollinations.ai/prompt/"
 # =========================================
